@@ -1,7 +1,7 @@
 package c.l.l;
 
 /**
- * Hello world!
+ * Hello world! thsi is new comment
  *
  */
 public class App 
